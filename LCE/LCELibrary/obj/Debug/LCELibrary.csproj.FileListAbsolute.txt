@@ -1,0 +1,5 @@
+D:\MyProjects\LCE\LCELibrary\bin\Debug\LCELibrary.dll
+D:\MyProjects\LCE\LCELibrary\bin\Debug\LCELibrary.pdb
+D:\MyProjects\LCE\LCELibrary\obj\Debug\LCELibrary.dll
+D:\MyProjects\LCE\LCELibrary\obj\Debug\LCELibrary.pdb
+D:\MyProjects\LCE\LCELibrary\obj\Debug\LCELibrary.csprojResolveAssemblyReference.cache

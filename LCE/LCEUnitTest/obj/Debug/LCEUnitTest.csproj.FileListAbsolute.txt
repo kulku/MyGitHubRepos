@@ -1,0 +1,7 @@
+D:\MyProjects\LCE\LCEUnitTest\obj\Debug\LCEUnitTest.csprojResolveAssemblyReference.cache
+D:\MyProjects\LCE\LCEUnitTest\bin\Debug\LCEUnitTest.dll
+D:\MyProjects\LCE\LCEUnitTest\bin\Debug\LCEUnitTest.pdb
+D:\MyProjects\LCE\LCEUnitTest\bin\Debug\LCELibrary.dll
+D:\MyProjects\LCE\LCEUnitTest\bin\Debug\LCELibrary.pdb
+D:\MyProjects\LCE\LCEUnitTest\obj\Debug\LCEUnitTest.dll
+D:\MyProjects\LCE\LCEUnitTest\obj\Debug\LCEUnitTest.pdb
